@@ -1,7 +1,7 @@
 # Clima
 Weather app made with Alamofire, SwiftyJSON, SVProgressHUD using the tutorial "iOS 12 & Swift - The Complete iOS App Development Bootcamp" by Angela Yu. Works with openweathermap.org.
 
-# How to install
+# Instructions
 
 1) Open Terminal and find the project directory.
 2) Run 'pod install'
