@@ -1,5 +1,5 @@
 # Clima
-Weather app made with Alamofire, SwiftyJSON, SVProgressHUD. Works with openweathermap.org
+Weather app made with Alamofire, SwiftyJSON, SVProgressHUD using the tutorial "iOS 12 & Swift - The Complete iOS App Development Bootcamp" by Angela Yu. Works with openweathermap.org.
 
 # How to install
 
